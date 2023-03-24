@@ -101,3 +101,5 @@ Extra Section, Call it Whatever You Want
 * Random tidbit
 
 * Other sort of impressive-sounding thing you did
+
+:   source of the markdown cv example here : https://mszep.github.io/pandoc_resume/ 
