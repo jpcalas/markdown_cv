@@ -1,7 +1,7 @@
 Jean-Philippe CALAS
 ===================
 
----------------------------------------------------
+-----------------------  ----------------------------
 Depuis plus de 20 ans dans le domaine de l'informatique, j'ai eu l'opportunité d'avoir plusieurs expériences professionnelles très enrichissantes.
 Du helpdesk très formateur à mes débuts au poste d'ingénieur systèmes en passant par une première expérience managériale significative finalement trop éloigné de la technique.
 Aujourd'hui je suis ravi d'apporter mes compétences et mon énergie au service du leader européen du cloud : OVHcloud. 
@@ -13,22 +13,24 @@ From the very formative helpdesk to my first position as a systems engineer, and
 Today I am delighted to bring my skills and energy to the service of the European leader in the cloud: OVHcloud. 
 A great adventure ahead in which I have the chance to combine technical and management skills with my new role as IT Team Leader !
 Not forgetting my role as an Openclassroom mentor, which allows me to contribute my experience in supporting students, who are often in the process of changing careers.                          
---------------------------------------------------
+----------------------  ----------------------------
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2018
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+2018
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2014
+:   **ITIL v3 Foundation**; VAELIA (Toulouse)
 
-    *Minor: Awesomeology*
+1997-1999
+:   **DUT Génie des Télécommunications et Réseaux**; IUT B (Blagnac)
+    *Very good training with a lot of various technologies learned...
+
+1997
+:   **Baccalauréat S Option Physique-Chimie**; Lycée Polyvalent Rive Gauche (Toulouse)
 
 Experience
 ----------
